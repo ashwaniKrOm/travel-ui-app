@@ -1,0 +1,6 @@
+{
+    "name":"My dev extensions",
+    "extensions":[
+        "dsznajder.es7-react-js-snippets",
+    ]
+}
